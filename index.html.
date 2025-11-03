@@ -1,0 +1,22 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="estlo.css">
+</head>
+<body>
+    <h1>Mendoza</h1>
+    <h4>Destino seguro y abierto al turismo</h4>
+    <p><strong>Mendoza </strong>es una ciudad de la region de cuyo en Argentina y <strong>el corazon de la zona vitivinicola argentina</strong> Famosa por su malbecs y otros vinos tintos</p>Sus distintas bodegas ofrecen  desgustacion y visitas guiadas</p>
+    <p>La ciudad tiene calles amplias y frondosas rodeadas de edificios modernos y art de</p><strong>
+    <h3>Conoce Mendoza</h3>
+    <ul>
+        <li>¿Qué Hacer?</li>
+        <LI>¿Qué Comer?</LI>
+    <LI>Dónde Alojarse?</LI>
+    </ul>
+    </strong>
+</body>
+</html>
